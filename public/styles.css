@@ -1,0 +1,441 @@
+#log {
+    color: #eee;
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+  }
+  
+  
+  #a {
+      color: #eee;
+
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+  }
+  #b {
+      
+      font-size:40px;
+  }
+.topleft {
+    margin-top: 5%;
+    margin-left: 10%;
+    width:40%;
+    float: left;
+    
+}
+.topright {
+    background-color: black;
+   border: none;
+    margin-top: 5%;
+    
+    width:50%;
+    float: left;
+    
+}
+
+.topword
+{
+    font-size: 60px;
+    color: #eee;
+    
+}
+
+.email{
+
+    
+    
+    border-color: white;
+    border-bottom-color: blue;
+    border-right-color: blue;
+    padding: 10px;
+    background-color: black;
+    width: 75%;
+    color:rgb(136, 127, 218);
+    
+}
+.btn {
+    margin-left: 1%;
+    
+    border-radius: 80%;
+    border-top-left-radius:30%; 
+ 
+    border-color:blue;
+    
+    padding: 10px;
+  
+    color: rgb(242, 243, 248);
+    background-color:rgb(7, 7, 7);
+}
+.play{
+    float: left;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.apple{
+    float: right;
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 02%;
+}
+.middleone{
+    position: absolute;
+    width:100%;
+    top: 95%;
+    left:40%;
+    color: #eee;
+
+}
+.middletwo{
+    position: absolute;
+    width: 80%;
+    top: 115%;
+    border-color: blue;
+    box-shadow: blue;
+    display: flex;
+    justify-content: space-around;
+    background-color:white;
+    border-radius: 60px;
+    margin-left: 9%;
+}
+
+.lower{
+    position: absolute;
+    
+    top: 130%;
+    display: flex;
+}
+.lowerleft{
+    margin-top: 5%;
+    margin-left: 10%;
+    width:40%;
+    float: left;
+    
+}
+.k{
+    color: rgb(111, 103, 231);
+
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+ 
+}
+.l{
+    color: #eee;
+
+    font-size: 50px;
+    font-family: 'Cookie', cursive;
+ 
+}
+.m{
+
+    
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+ 
+}
+.lowerright{
+    margin-top: 12%;
+    margin-left: 11% ;
+    width:50%;
+    float: left;
+    
+}
+.lowerone{
+    position: absolute;
+    width:100%;
+    top: 220%;
+    left:30%;
+    
+}
+.loweroneone{
+    margin-left:25px;
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+ 
+}
+.loweronetwo{
+    margin-left:100px;
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+ 
+}
+.cardsmain{
+    position: absolute;
+    width: 100%;
+    top: 225%;
+    border-color: blue;
+    box-shadow: blue;
+    text-align: justify;
+    
+    background-color:blue;
+}
+
+.one{
+    position: absolute;
+    width: 335px;
+    top:270%;
+    margin-left:5%;
+    margin-right: 5%;
+    background-color:rgb(62, 62, 65) ;
+    text-align: justify;
+    text-align-last: left;
+    word-wrap: break-word;
+    border:2px solid rgb(153, 150, 150);
+    border-radius: 10px;
+    box-shadow: 5px 10px 30px 0px grey;
+    
+}
+.two{
+    top: 270%;
+    float: right;
+    margin-left:40%;
+    margin-right: 0%;
+    position: absolute;
+
+    width: 335px;
+
+    word-wrap: break-word;
+    border:1px solid grey;
+}
+
+.three{
+    top: 270%;
+    float: right;
+    margin-left:70%;
+    margin-right: 0%;
+    position: absolute;
+    
+    width: 335px;
+    
+    word-wrap: break-word;
+    border:1px solid grey; 
+}
+
+.img1{
+    margin-left:13%;
+    margin-top: -18%;
+}
+.oneone
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 8%;
+    margin-left: 40%;
+    color:goldenrod;
+    border-top-color: black;
+    
+}
+.s{
+    font-weight: bold;
+    font-size:60px;
+    color: blue;
+    margin-left: 28%;
+}
+.texttop{
+    font-weight: bold;
+    font-size:30px;
+    position: absolute;
+    color:white;
+}
+.cashback{
+    color:white;
+    font-size:20px;
+}
+.cashbackno{
+    color:green;
+    font-weight: bold;
+    font-size: 25px;
+}
+.cashbackp{
+    margin-left:32%;
+}
+.spotp{
+
+    color: #eee;
+    
+}
+.spot1{
+    color:green;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10%
+}
+.spot2{
+    margin-left: 20%;
+}
+.bar-container {
+    width: 100%;
+    
+    background-color: #f1f1f1;
+    text-align: center;
+    color: white;
+    border-radius: 5%;
+  }
+.bar-5 {
+      width: 80%;
+      border-radius: 10%;
+       height: 5px;
+        background-color: #4CAF50;
+}
+.bar-51 {
+    width: 80%;
+    border-radius: 10%;
+     height: 5px;
+      background-color:white;
+}
+.middle {
+    margin-left: 10%;
+    width: 80%;
+  }
+  .btn1{
+      background-color: blue;
+      color:white;
+      position: relative;
+      margin-top: 10%;
+      width: 60%;
+      height: 50px;
+      margin-left: 20%;
+      padding: 5px 5px 5px 25px;
+      text-align: center;
+      font-size: 23px;
+      border-radius: 10px;
+  }
+  .p1{
+      color:black;
+      font-size: 20px;
+      margin-top: 30px;
+      margin-left: 28px;
+  }
+  .p2{
+      color:white;
+      margin-left: 28px;
+  }
+  .tick{
+      color:green;
+      font-weight: bold;
+
+  }
+  .ticktxt{
+      margin-left:20px;
+  }
+  .p3div{
+      margin-top: 20px;
+      background-color:rgb(62, 62, 65) ;
+      padding: 10px 5px 5px 10px;
+  }
+  .p3{
+      color:black;
+  }
+  .lastdiv{
+        background-color: rgb(170, 226, 179);
+        padding: 10px;
+  }
+  .p11{
+        margin-left: 60px;
+        margin-top:10px;
+        font-size: 15px;
+  }
+  .p22{
+    margin-left: 50px;
+    margin-top:8px;
+    font-size: 25px;
+    font-weight: bold;
+    color: green;
+
+  }
+.p33{
+    margin-left: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    color: green;
+
+}
+.lastdiv2{
+    background-color: dimgrey;
+    padding:10px;
+}
+.p222{
+    margin-left: 50px;
+    margin-top:8px;
+    font-size: 25px;
+    font-weight: bold;
+    
+
+  }
+  .btn2{
+    background-color: grey;
+    color:white;
+    position: relative;
+    margin-top: 10%;
+    width: 60%;
+    height: 50px;
+    margin-left: 20%;
+    padding: 5px 5px 5px 25px;
+    text-align: center;
+    font-size: 23px;
+    border-radius: 10px;
+}
+.tick1{
+    color:grey;
+    font-weight: bold;
+
+}
+.ticktxt1{
+    margin-left:20px;
+}
+.p21{
+    color:grey;
+    margin-left: 28px;
+}
+.oneone1
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 8%;
+    margin-left: 40%;
+    color:grey;
+    border-top-color: black;
+    
+}
+.s1{
+    font-weight: bold;
+    font-size:60px;
+    color:grey;
+    margin-left: 28%;
+}
+.texttop1{
+    font-weight: bold;
+    font-size:30px;
+    position: absolute;
+    color:grey;
+}
+.cashback1{
+    color:grey;
+    font-size:20px;
+}
+.cashbackno1{
+    color:grey;
+    font-weight: bold;
+    font-size: 25px;
+}
+.cashbackp1{
+    margin-left:32%;
+}
+.spotp1{
+    left:10px;
+    color:grey;
+    
+}
+.spot21{
+    margin-left: 40%;
+}
+.footer1{
+    width: 100%;
+    position: relative;
+    background-color: #eee;
+    height: 20%;
+}
+.p111{
+    color:grey;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 28px;
+}
